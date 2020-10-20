@@ -1,0 +1,12 @@
+#MFMDA
+MFMDA is a novel calculation method that uses matrix factorization algorithm to identify potential related miRNAs of known or new diseases. The method is implemented in Matlab2014a.
+
+description:
+"Main.m" shows the experimental results of MFMDA on HMDD V2.0.
+"MFMDA.m" is a function of the MFMDA algorithm.
+"RoCcompute.m" realizes the function of calculating AUC and AUPR values, and realizing ROC and PR curves.
+"B1.mat, Km.mat, Kd.mat" respectively represent the pre-processed known correlation matrix and the similarity matrix between miRNAs and diseases.
+
+contact:
+If you have any questions or suggestions about the code, please let us know.
+Contact Shiyu Han at shiyuhan62@163.com
